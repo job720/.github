@@ -1,6 +1,6 @@
 # Job720
 
-**[Job720](https://job720.goxba.com)** 是面向 **AI / 芯片 / 新能源 / 机器人 / 无人机** 行业的求职信息枢纽：
+**[Job720](https://job720.com)** 是面向 **AI / 芯片 / 新能源 / 机器人 / 无人机** 行业的求职信息枢纽：
 把招聘方在自己官网上**公开发布**的在招岗位直采过来，做筛选、比对、JD 分节阅读和收藏。
 
 ## 我们做什么
@@ -17,9 +17,9 @@
 
 ## 看这里
 
-- 在招岗位：**https://job720.goxba.com**
-- 岗位观察（每天的数据变化与口径说明）：**https://job720.goxba.com/observe**
-- 博客 / 行业求职问答：**https://job720.goxba.com/blog**
-- 给机器读的口径说明：**https://job720.goxba.com/llms.txt**
+- 在招岗位：**https://job720.com**
+- 岗位观察（每天的数据变化与口径说明）：**https://job720.com/observe**
+- 博客 / 行业求职问答：**https://job720.com/blog**
+- 给机器读的口径说明：**https://job720.com/llms.txt**
 
 这个组织下的仓库放 Job720 的公开数据出口与日报，不放产品源码。
